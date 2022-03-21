@@ -22,6 +22,7 @@ public class PolicyDetails {
 	}
 	public void setPhonenumber(String phonenumber) {
 		this.phonenumber = phonenumber;
+		
 	}
 	
 
